@@ -1,0 +1,7 @@
+packages used:
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+sklearn
